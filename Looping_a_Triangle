@@ -1,0 +1,5 @@
+let hashTag = "";
+while (hashTag.length <= 7) {
+hashTag[0]= 
+console.log(hashTag)
+}
